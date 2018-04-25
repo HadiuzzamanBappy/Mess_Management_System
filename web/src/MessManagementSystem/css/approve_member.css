@@ -1,0 +1,16 @@
+.approve {
+	width: 90%;
+	height: 33px;
+	border-radius: 33px;
+	color: white;
+	background: #5FBA7D;
+	font-size: 17px;
+}
+.delete{
+	width: 90%;
+	height: 33px;
+	border-radius: 33px;
+	color: white;
+	background: red;
+	font-size: 17px;
+}

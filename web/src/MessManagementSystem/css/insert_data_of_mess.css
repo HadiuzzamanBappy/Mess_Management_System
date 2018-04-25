@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10;
+	line-height: 2;
+	color: #000;
+}
+.over{
+	overflow: hidden;
+}
+.templete{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.bodyinsert {
+	background-color: #C9B7A1;
+	height: auto;
+	width: 1000px;
+	margin: 0 auto;
+}
+.navigationinner {
+	float: left;
+	height: 512px;
+	width: 200px;
+	background-color: #A5937D;
+	text-align: center;
+}
+.navigationinner a {
+    background-color: #C9B7A1;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.navigationinner a:hover {
+    background-color: #272822;
+    color: #DBDDE0;
+}
+.container{
+	display: block;
+}
+.post_a_market_meal {
+	margin: 60px 0px 0 262px;
+}
+.post_a_market_meal input[type="date"] {
+	width: 377px;
+	height: 40px;
+	font-size: 17px;
+	text-align: center;
+}
+.post_a_market_meal input[type='number']{
+	width: 377px;
+	height: 40px;
+	font-size: 17px;
+	text-align: center;
+}
+.post_a_market_meal input[type='submit']{
+	width: 377px;
+	height: 40px;
+	font-size: 17px;
+	text-align: center;
+}
+#id_of_marketinput{
+	display: none;
+}
+.person_dropdown {
+	width: 377px;
+	height: 40px;
+	font-size: 17px;
+	margin-bottom: 29px;
+}
+.meal_header {
+	background-color: #A5937D;
+	text-align: center;
+	color: whitesmoke;
+	cursor: pointer;
+	height: 56px;
+}
+.market_header{
+	background-color: #A5937D;
+	text-align: center;
+	color: whitesmoke;
+	cursor: pointer;
+	height: 56px;
+}
+.meal_header h3 {
+	padding: 10px;
+}
+.market_header h3 {
+	padding: 10px;
+}
+.required {
+	text-align: center;
+}
