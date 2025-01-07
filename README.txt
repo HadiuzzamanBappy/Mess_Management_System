@@ -31,4 +31,11 @@ Project Details:
 		MORE FEATURE WILL BE ADDED IN FUTURE.
 				THANK YOU.
 
-note.: manual will be available soon...
+note.:
+	1. Clone the Repository
+	2. create a database name "messmanagementsystem"
+	3. import the db file from database folder.
+	4. start xampp or wampp for a server.
+	5. copy the MessManagementSystem from web/src directory to xampp/htdocs
+	6. Type url localhost/MessManagementSystem
+	7. Enjoy the site
